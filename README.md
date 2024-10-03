@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to your profile! Duygu Sezer is a 3rd-year Computer Engineering student at Bursa Uludağ University.
+## Hi there 👋 Welcome to my profile! Duygu Sezer is a 3rd-year Computer Engineering student at Bursa Uludağ University.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duygusezrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duygusezrr) 
