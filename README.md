@@ -21,5 +21,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duygusezr&icon=7&color=10)](https://visitcount.itsvg.in)
+## ☕ Support Me
+If you like my work, you can support me by buying me a coffee!  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Me-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourname)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
